@@ -1,0 +1,12 @@
+[
+    {
+        "dialog_id": "0x6518cbe0",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "For"
+            }
+        ]
+    }
+]

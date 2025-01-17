@@ -1,0 +1,5670 @@
+[
+    {
+        "eval_score": 1,
+        "dialog_id": "0x595b21f9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x35ec8e5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1771127a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x40187d59"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x14c0babb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3c0ddb5e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7c43e1c3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x54f658d5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5842cc8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x316781c8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x505d6510"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4c64dad8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x511b6fe1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x70d901d9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x40aa3294"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3d365396"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1e22419e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3a2dbe50"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x76fd8ae7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5c2c6542"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x33d06e64"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x15ff16ce"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x68cb74f6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x58e742ee"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7eacbfac"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6beff65b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7baed8ea"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x36053909"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x123b7b80"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1ea22b26"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3390a2e4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xe65e7d8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2be6255f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x315c3de3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1264e766"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x48674d3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x15a576ab"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x48d827aa"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x66d6bb6b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5ac5e63f"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x60c46fc4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x769c39b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7d2f6015"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3eac0a2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5d27cd16"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1fc87725"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3596cea2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x536c4904"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2be4c7f8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1dcb3354"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x50c182bc"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6347f1c2"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x9130bba"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7b4518b6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x155be65e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x89a87c0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6369bdb7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1b8792bb"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x477fae22"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x338433b0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x499a2cd4"
+    },
+    {
+        "eval_score": 6,
+        "dialog_id": "0x3733d2d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xd1fbe4c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77ce7166"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x76b3d6d0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x34605513"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6b89862"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x45c2c93f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x53057b73"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x25f7e53a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xdc7508"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x35b0f219"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6f30d765"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3d1c07d5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xc630a07"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1690fbe9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x457d3240"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3dffa6ab"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x340f03a9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7ac84ae5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x72caefb9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3fc2f105"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2b4c5727"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xf2f89d4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x39e1100c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3f8151b3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77bad33a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xca27d50"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6ea0e571"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x497ba518"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2e0546bf"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x27834254"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7de51322"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x14c930d3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x47fe9436"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7bfcf051"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4ac1d90"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x92387c3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5afb9cca"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x74c168df"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x105041ab"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1c3cf5f8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1b911a72"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x48c79b24"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7892ab6e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61da5b49"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x400d9414"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7d4777c9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x33b9fdee"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7c08df13"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6c84c2f6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x722eedd5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3d819c6c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x523e2dff"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2c0ba3df"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x45af6076"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1f3acc13"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6f429557"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3d7bfa4c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x41e001f7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6871a5a5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x56747be3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x72aea04"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x347a3f32"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x754cc8f7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x8b104db"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6b02d282"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x9a77ce9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d76e36e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x627ce47d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x39b43dcd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7c273315"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x1441d2fd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x242b610b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x785895c8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2115501b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x16d6565c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x19ce8b30"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62d20390"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x30d8b656"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x207c285b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6b59443f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7a040f64"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x562bf499"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x296d4959"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x507ac66d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1de8c91a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1d98fd0c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x679a9ecc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x51a1a439"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4b805f88"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x275ff635"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3002d7ae"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2d961da8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x197741e8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x13858320"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7dc887b7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2893e25"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x652b69fc"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7e011674"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x41e8acd3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2280ddde"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x21ce73d4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62a78079"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x10bda0db"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d44160"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3b0932a9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1a1b1e6f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x12868892"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x10fbdad8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x28fb9315"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x551b0bb2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x179a6091"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x416f13cf"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x587aff77"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x52d4b80f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x671cf0b5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x66c51999"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6b4e5395"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3736d55"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6b03f596"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7e8b8443"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x550c216c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x229dc6e4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x10504ca8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x18fd3103"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x70bb48e6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1bb55d64"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2372033c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x36dcd4ea"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2c7bc62f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x37bc4ca"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x64952d5e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xafffb2b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2a04bc5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7476e5f8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3ba6f630"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xda66cec"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5f470e1f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1fa49595"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x77582d8f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1ade4779"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5849ad97"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xe468be8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5ead86fd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2c04298c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6baaee64"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x64c6f4b5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7397e474"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7729ed7d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x8529515"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7faed5ed"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x54d3daee"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6f716855"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5843a752"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4dd8ec37"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1cb80a6e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7aeb6a8d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x381292be"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2c5d2362"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3b064a94"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x74706118"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7f31eb9c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x67f817e6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1a0232ac"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x29e998ff"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x278e4853"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x315da72"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6022fe17"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x61edffc4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x13f7fc66"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x322fff0a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x79695e96"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3cd272cb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7188e730"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4058d816"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x7ec8a804"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7b4dee57"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x317e9aa7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x78fca5b3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x708e9571"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x181bf3a0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xd97bad0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x168573e0"
+    },
+    {
+        "eval_score": 9,
+        "dialog_id": "0x57c8f400"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x7d091ba9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x251da857"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x57a1c613"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6ad451e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4510a0e6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x46dcee41"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x20737491"
+    },
+    {
+        "eval_score": 9,
+        "dialog_id": "0x3806367c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4acf5f7a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xef295b4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x522bbd68"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1e2c6e3c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5dcf3338"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x380b337f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3a3fa04d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7c529032"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x25b8b2da"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x39588cd4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7bfab8cb"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x56c5ffaf"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d6fcca0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2c7adb94"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x26454db3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7d2a9db4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xef9a417"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x45f268da"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xe5d15f7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3c785a2c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2f4e3ea4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x17665a6c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x638d4b1e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3c1ab14e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1f30ea5b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xfb9f27b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x21bc7d09"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1ea1c54f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3040e45b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x17ab40fd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x19a4020a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1dd84b57"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5482f0d9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2a6f81b6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x51e3ad73"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x14f575f9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x15f23c7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3c537b4b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x57bddc7e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1a41cfa"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x729a2da6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x63f40bf9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61f0a9b6"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x471bf66d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3b2e6c30"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6f3421a9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7cd408d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x129fb96e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d8a1b15"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x41fcce2a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x588399d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xf47f080"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1b70c563"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3be32727"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x75c22a1d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4f9ac2f9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6b59107d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3396db59"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5c31a845"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1dcb4a2f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5af9d508"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1c096f23"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4f16ceb0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3337891e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x599673ed"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x653484b3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6fa1197f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x722c0cbc"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x484b1b90"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x4add7726"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x73ab3c90"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1534b2cd"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x55366c96"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x99a6ecd"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x37ea74fe"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x79cf0813"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7021a631"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x155ab7d4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3fbbcb2a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x631cc1af"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x38d7b3c5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x48d6a4f5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x116dfe01"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x3080b247"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x685522c5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5b50064c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5ceb60de"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x437059de"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2913e2ff"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77aae0d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6dbe9e82"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7b57ac47"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1c86e4e9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x764c20d1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3bd61c3d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x44576973"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x68de04f7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3324c0dc"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4aba12f9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x46692d32"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x294f8c7f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3d4846bd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5a34b42b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x33e5a5af"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4822e49a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1bd5037a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1277e630"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x33ebc7fd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2ee1fb49"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x501eaabd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x49130fae"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x527056ab"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6f35a71b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7272c105"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1adb75f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x41378c00"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5c55d18e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x62f98a6a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x17257342"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x88613c4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x229415e1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1b77bd04"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x251bd757"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6d4b9995"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1fb0e3dc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7de49ad"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37dd0d00"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xff9d996"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4b23dbeb"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1f2c130d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7bdcafe0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7e9445ab"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x36275fcd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2a02cbb6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x67208fe7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2f26cea0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5900b3ba"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x68ed6ba6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x27ee7ee5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x86c213d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1eac286c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2dde2b39"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x312d2b2"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x15c398be"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x481a7594"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4cb0fa59"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x23ffbf21"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x32c67e95"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5a49c30e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x34dbd2ee"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x169ea39d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x73fe304b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2a5a8893"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2c3406ad"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xf520647"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x9ff519f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a4c19d4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x34929350"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6454ded8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5ed3fff3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2a9a72a5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x51e67e73"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x124ff764"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x720928e6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x51a4d1fe"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x43d946c5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3a9c5a2b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x32fb5955"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4077ab00"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7826ee4a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x23a17c3e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5f3a8eab"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2ce34b24"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x24299d0b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5c480696"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x695bbb56"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x165d7824"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x61a3deab"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2ebd42cf"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x75e086b1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6f0110f4"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x6518cbe0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x625ae086"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4980e3b1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x392211f6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x65920a8d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5bd734dd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x506c47e1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7fd32c33"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x15df5b3a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6f3c15e6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6ef969a9"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x65c1ab34"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4ad4b597"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6c770ec1"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2e8e6e4e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x18df0bc4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xf43b9b8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5f31c637"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x19073067"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x722f2ca9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x17bd4314"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x125af524"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2696726e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x48beabb2"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3ea2a94b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1bcad6ad"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x12d310dd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6b4d6bfd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1d10b2f8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61ff9c4b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3c1f11a3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7be3c6e5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5a0386"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x45324d3a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x64b480af"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x56b168f9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x255ff97b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x279d6e1f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3d0d3e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x47946b78"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x14d9525d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x74710bc6"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x676a295a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x46557cc0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xb994562"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1aa05ef9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3a5fbf34"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7cbc87ca"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x32f54485"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xadf202f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xa782f89"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1b3a0135"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x52a95bc6"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5766c71f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x72a6689b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4624153a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1908efb6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x200468a2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x529152fb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x42d900aa"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x44fd04d8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5cc66ad8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3ce7935f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x34e6eea1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x64102865"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x26b70f70"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x154a0b89"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x3c518dc3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37b07eb5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1d45e370"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5e04b167"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3ee8228d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x25342047"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2c4e8d66"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5cab2495"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2496dff0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x18e4f374"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7cc77368"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x65c3855f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5c026db1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x29c81186"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x449da81d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x11bc3070"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7a8608b8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x397a86f1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x711116a6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4896a84f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3a229948"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x29c77d1d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x78a8840c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2cafe8aa"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3cb65e41"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xc4537b5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2992deb5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x31b2ec29"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5bac623d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xcdd04ab"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1acbc12c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x67fce031"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x16673340"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x35c39b6c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x100784de"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x39dc13b4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7852d9f4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x19a4e06f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1b8572a8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x127107b3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3123ba64"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7783bbff"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x20dc1536"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x59bdc022"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2cdc3cf7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2810b977"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1ff9384e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7eb9862c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x60558284"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6aeb158"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x282c2993"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7568cf21"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2544741c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7be6f63b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4aae93c9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2c43ba4c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1eeb6ef2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7bfa2704"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x788424be"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x20b02067"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xa1cb83a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x685b2ce4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x8cab52e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6c0dd9fb"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d0fbb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x60dd45e4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x65ea872b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x8dbec34"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x46f4a879"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5df99a6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a202007"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2658c55d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x146fe728"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4618274c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x36d8fc4c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2a9233e5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x306bf448"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x72b13d9a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x27191966"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x24175bac"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1ec34665"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4e6b34c5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7afcc51d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x86d7342"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d96c62c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1cdf6a20"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4d4b3ed1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3646f6aa"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6435f930"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x44799669"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2fbd71ec"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x25512e55"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x46eb083"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x344c8581"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7b8b5a62"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x24179698"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5f26878d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7b9f9b5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4e48b5c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x790a73eb"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x394ee9e7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x176504c4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6c8cd444"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1846c040"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7abab179"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x397d5ed4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xf13b5d7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x756c99db"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77fe27b8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1f89b60"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x130c89e1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d0611c0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2c4bc4b7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1cfe1a2e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1bebc0c1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x558587aa"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x56bb9e49"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6aa1df62"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x42169b30"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5ff94759"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x736e8ed4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4bfd4c9a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x60c550c9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4c994dc7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x716b661d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61453358"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3d9891d0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x45b5e991"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x55cad316"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x221acfa"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5951684d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4dbe5ad9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1e698b78"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xafa7c21"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x61cb2c5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x12c5c3f2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1e0169b4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1ff67424"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62a79ca6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62bdd5ff"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x53db975b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5f3d6c35"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7bff448"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x17bc6d20"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x466d0eb2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x13cba355"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x432e3e27"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x394f4825"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x488d294b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x68b7b6ff"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2199f2f3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1a372ffc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xe728d69"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3ccd2b18"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4701c7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x46932b96"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x19424962"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x67905b76"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x12a1504b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7bdd5274"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2f7164e1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x73f581a1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x25f54be8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1f1d94ad"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2a7892a5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x88955a8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x71f854fd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7f10770e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x63a1979d"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x792ef128"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5e016da"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x111adf1a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5eaa3fe1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x67a941c4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x711f2c10"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4f2efb1b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x17f4472e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61608bbe"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x254defcf"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4c6bbba7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x22331633"
+    },
+    {
+        "eval_score": 4,
+        "dialog_id": "0x5a28a33f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x529e043"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4caaed7d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x48fd4372"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xa936525"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1e7a337a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a6a1da8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x62968ea9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7f2f624b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x26732f24"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x627c4bb0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x480de643"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x482c0fed"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6d6fe994"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x146a8b76"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x173aed91"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xcef06ca"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3f90e91a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x549d35cc"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x55ca92e7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6487af9a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x202b1d86"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x130277f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d179a0d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x626e0f35"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6a7c619e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3a3d892f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7f43cf9b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7c829345"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x17388bb9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x36018d28"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xb7f2412"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4b2f345c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x50a1db87"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x46686221"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xfc2e33b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x21532d4b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2b902c61"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7cade3c3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1789824e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x74a693ab"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4a6dbc7e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1911285c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7b6d33be"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5736a582"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x70d676b6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x47aa8c3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5fa7d1f0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5c1251ab"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x25289f9f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x534877ba"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1b5b16fe"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7f9a1452"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7faf2bb0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4af2d03a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x25f39fa1"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7846a6d6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7af8e909"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2ef9323"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7a8623a8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x61029458"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1e2fb8c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6c343a60"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x69dda9ed"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3c2b75a5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2dca0c00"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6c3738b5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x758bb454"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xf912087"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x156de2d8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6bcbe8e1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x445409ad"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xba1a121"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x53257372"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2c9ac168"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x44457d9e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1fa9d52b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x28410e0f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37bcbada"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7c7b4f6a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x20c4b847"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x8e912f7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1f02b7f3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4fd25f28"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xea5756c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x71e95366"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x37b0aa97"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xfba5007"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x33036b52"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x248b40f7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x313015d7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3ba09351"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x836942f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x532b8d4b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x13f74c58"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x66274f2b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x28eeaba6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xef02a5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4107a7a6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x51b40591"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2783d84d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x72ff52bc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7945b061"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5dda4731"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x68c8e7cd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x68c17193"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x394ef31f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x79a9af9e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x71126858"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x595bf669"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x43056795"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x499e5da2"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x444b0564"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1a775bfe"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x52c0337b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x60dc1643"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x276fefd7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x507f71d0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x45d6bcba"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x38796f2c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3d5592ea"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x38fa418"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xf1b49ec"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x872fc81"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1247233e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x47d88292"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x9c43f4b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x583eeea"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x75d96ef2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x184c262a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6cfb042b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xf1135f3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2e7f566c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x74d08c65"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x45681cc0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x23ca632b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7e3c7b70"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x23c7d4b1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5148df2a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x9fb7b59"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xa121fa0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7897384c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x457faa41"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3876d87c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6e283827"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x42935bd2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x33e80004"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x739a2300"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x45570087"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x341a4762"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3cb1f11"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xd4342ef"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x72b15de1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3517152a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6ca4b186"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3374e80b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x10def0b6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x734462c3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x59f9a0ea"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7142f305"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x47aee153"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x206cb71c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x344ce18f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x79b2e72a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4568a90f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x31ca8d60"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x71732e31"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4c3c7007"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x8ac1528"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4662e362"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5c829d6b"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x2b275e67"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xc171dba"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x114b24ad"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x77137b9c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x375b0ff3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1e42657a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x20519e85"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1bba2346"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xe3995b7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7b32e10d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6cbcb72e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3fe1e81c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x41368a97"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6482b9e0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x28ba1f8d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x362f0e29"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3d8df633"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x727a35a9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2cbf4b46"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d0ca28c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x396113dd"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x3b74a4b8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x436fa8c5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5f688650"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x18dbbd20"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62db1ee"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2389ef87"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x16c6657"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x1b3fa2fd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37bc1c27"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x42593a88"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6105818a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x43c72203"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x21e6170c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5285c2cd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x73208deb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x31998fa2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x27855862"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3d3a653d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x49770a7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1e64e020"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7a0bf3c9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x33fe6abb"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3ab5acc5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x74a3c399"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4f834261"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x56f33035"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x21114059"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x33e25979"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4c024fdd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x35414ba8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x51164743"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1bdc144d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3659b366"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x17cd8f89"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x34f7587e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x506d35af"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xe599cf4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7e5cb1e9"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x4535d001"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4e6f094e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6d84779d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6231e265"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x22c061c7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x27ef4194"
+    },
+    {
+        "eval_score": 4,
+        "dialog_id": "0x2037c1d7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x681c00c6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x9db3512"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3b59e7f4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4f10197f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xf1b83ea"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1bbbd703"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xea980d5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1d5e971d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x347c9c1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5c69e861"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x58ee6827"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x3483179e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x70917687"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x68910864"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2d90d2d8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3e52a4cd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5bd891fc"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x64a4c6ca"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x201e0793"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x222b10f1"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x472491c6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1648a4b2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d9fcfd5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x14ebbb7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7cadb5b1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x68c1b4cf"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x344d0a8c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x12be167f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x13a6114c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x47c4713e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x16e6ff25"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5561b954"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x23abace1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5219be84"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3c0168dd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5f773fcf"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2af15868"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5279c863"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6c6d2d36"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x63cc5dfe"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3254d156"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7ea07cfa"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7198a572"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62985ebe"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x74d4cf02"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xcd80c9c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2e5ee559"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6c4e1970"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6e96d43b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77e4b0b5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xdf1f732"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x272c915d"
+    },
+    {
+        "eval_score": 4,
+        "dialog_id": "0x431f6d09"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x762268fb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x43d478a0"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0xb9b0918"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6617bc17"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4f9a1a8e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2c8e5232"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1ae35f4e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6609cfef"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4d49c5f5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2589f82a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3eed655b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3d4f3de9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61b16a5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xcb53753"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x72d29e4b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4ab00f96"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x64a3880b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7e2933cc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x661d7b48"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x7020d3eb"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x504568d9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x582d7f35"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x68254d6f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2e753a4b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7571d9a1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6045d76e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2a62fa55"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x53812015"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x360864bf"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x1246b79e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5905a560"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7aec9f1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3e6ad15a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x39dc632b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xeeb09b6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1bf1c90c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x38a7665a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x728539f8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2037a936"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x129e7e0b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xa614b18"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1d614ecd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x331ee124"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x37f02e7a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2d4e22d8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77566628"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x67317b97"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3f6eb75d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xfc34346"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x226faa0a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2c509bd6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x525f5979"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x26529496"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5fbd80e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x187cfd0d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3d544a0e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5b033d49"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x78bb5bfc"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x991aec4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6465b02b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5be1b644"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x65c1f1b8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x72ed814a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x40c88e44"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7ed5729c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x52083779"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4cd7d36a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4dcde19f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x78a9d373"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xd93c320"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1e02669f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x134379ef"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x43d729df"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x24e46f07"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x77f021fe"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x71019452"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x44e4e26b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x43035083"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6f70cc8a"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x4d4fb798"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x15274ac3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d1f2a37"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2fb0cbfe"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x27c7ccde"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x17e91044"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2cc90dc8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4e1dcaab"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x14f091b5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x33de6ad"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x161e1f8f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x349ff99"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5250874"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x27003f7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4abb6339"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3314b053"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x26347f37"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7b3cccde"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x47b112b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xce61975"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x53484282"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x704b6ca4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x19c0d8aa"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xe162438"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x21094ff8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1fe753e0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37bd2be"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3a4f3a5f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x24eacc90"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x41b6807f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x478d8297"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x24701f08"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x58875287"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x48aeb40e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1215cf46"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x22bb37d9"
+    },
+    {
+        "eval_score": 4,
+        "dialog_id": "0x622d8ab0"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x6e22c41d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x48480ecf"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3cc5ff39"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x453dd341"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4b0ef27a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x66577b09"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x539c62cc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x647e1be7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x9fe0b09"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5ab63779"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x75e9a2db"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x62db9572"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6b1e603d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2c059708"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x44d650af"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3a00d7b8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2f1af2d6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6993a67c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2a07dfed"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x75bcd716"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xcad4a7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xe3740e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x9f5685d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7a68ba82"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x790977ec"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x308315ea"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6fef8ed5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x46bb092b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5fd8a7c7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x642a199d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6a4fc708"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4d902ea7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x461a1046"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xcb8473"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x65ade8c4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xd72131d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7ec41fe8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x16e218f0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7cf7efdc"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2045773e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1e2295d8"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6abb4d02"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37c72f00"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x34bae185"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7e6f6ae9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x47aa243e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x34fd5798"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5cb25e27"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7f13b80a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1738d8e2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x51f6f46d"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x39802dc9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x18f81efb"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x37a4828f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x11c5116"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4ed5192c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5fbc0742"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x17fed9bc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5218bd1f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2e0b90b1"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2b4f1539"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x25b433a6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3845b171"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x72627b56"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1a551972"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xe6c2e9d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x53849093"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7270ec1d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5d2265d4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x21660f14"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x48885c1d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5ad3db76"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3ef995cd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6b7a4892"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2e70aa0c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x36f01460"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a171f6"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x510e22d6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x509f1c1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xe15dd49"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x41f97fd4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6b635582"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2baa264a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7fb20f50"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5718898"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x14a70896"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x24f12f59"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5a794874"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2e464b23"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x658da03e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a5a0c7c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5218bbf7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x694c5db1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3944b785"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4d178549"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x58425b4e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x66f9b443"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3af23163"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x756b3768"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x36ff24b2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xa36cfd9"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x5be7313"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x61002583"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6f05d407"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x30193b82"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x50e00bc7"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x563ca1c2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x31a33bf9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x78c5252d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x50df488f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xc07e29c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x533fec0c"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x309436f8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xcfd6b7f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2d84096a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a5cbf77"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x39038910"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xd92de78"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6e8a39d"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x550a4ad6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x75022e32"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x11fd351a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xf6d8db0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x532f540e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x725c81a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x24f11702"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x28f4f993"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x75e4895c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x12f5b705"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x431d4884"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6ec5b20d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x312811de"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5db8f16b"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4ffdb7cd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xdce55a2"
+    },
+    {
+        "eval_score": 8,
+        "dialog_id": "0xdaa5bfd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x464f8b53"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1dbb6de7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x51c2b7c0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6dc163ee"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x19d88c7d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x243213c7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xc01b76b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x735f987f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4ea59478"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x286b767a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x247c96f"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xfba946a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5a43d92"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x633bcdcf"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x31aedd87"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7fcbe85"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xe8147c9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5655603"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x21b9cc62"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1f0a9669"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x37bb3439"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xff11a3e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xfc28e1c"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x56e0392b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x792747e4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4a0f8cee"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x32e454a0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x159b47bd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4e19dc72"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x79ccb457"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4a996b00"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6062074e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x52f7f865"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x317cd538"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x42446a3e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x76c6b0c6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x41cbef71"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7c7f2cd0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x324fc5c5"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x512e6825"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6370239"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x693c7972"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x9ff914b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xac595d8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2563dad2"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3d296709"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0xd6d3334"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6f488e98"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x8e584f8"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3fca0e4a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77cba139"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x217af563"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4c9c1592"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4a764ae"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7fd11356"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x21e0d1fd"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x27fe1bf5"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5caf9842"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x19a8df45"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7640ffa9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4e67e8e0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xa23908b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x51fc6be2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x77f97833"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x67efdb57"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6ffff4e7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x15256c1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x773b9d68"
+    },
+    {
+        "eval_score": 0,
+        "dialog_id": "0x53d2e8f0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6fcb8312"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x57f93a40"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x55a888da"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xc43e9eb"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6682cb9a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x9d8b6c3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2bf0ba03"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x61f12ea3"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3f1f0460"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x130b4e66"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x35648da4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d194f3d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0xc9d234c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x29db9f8d"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x13a7a7e3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x42bd2c14"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x703acf95"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2505aeed"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x609a0f05"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x62d527bb"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x353ba7ca"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x35f1f541"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x30b4c3ee"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1af12bc4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x47aee62d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x20e6bc38"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7d11f949"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x779b3988"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x187cb3d9"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x416fca0e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1cb606e1"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x370bb935"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x251f3a27"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4eae53b3"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3201138e"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x721fbeb4"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6f3cbb7d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x230ed520"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x26294a17"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x6ee95129"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4a295b78"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3115ab49"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x49b67da4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x34aad631"
+    },
+    {
+        "eval_score": 3,
+        "dialog_id": "0x496b043f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x5627fc95"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x795efb2b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x1b330732"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x378bc8f9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4e1da475"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3981ddd6"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x31dba460"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x201e4e32"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7f9843c"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x76c32b50"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xb2a120f"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3f761cf1"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0xac0f0c7"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x72d4f626"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x27004147"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x3cd47b09"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6bb0720f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7677d2fa"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x4db7da26"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x33c52e68"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x4180f2c4"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x3678013e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x68c05344"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xc33f253"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2fab1682"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x1abcb1fe"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x57ca3b8a"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5543af99"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x2f0af1e7"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4e0c47b2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x5ee23115"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x21322e9e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x35a90014"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x64ca6e6f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2733842"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x69a44b26"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7f28a4d9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x662159de"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x430b5d2a"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x14f4bec6"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x43eefb32"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x344de456"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x40818400"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x232b5fd"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x360caba0"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x78ea5271"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x6908db85"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x9624e1a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x2f4f12a3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x735abede"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x749f0fcc"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x7e3c279d"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x7863e55a"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x66ce8e7e"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x19e85ce0"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x47f2d9cb"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x64bdad5"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x5e5dc63b"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3c9495d8"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x137bbb96"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x12830253"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x7052b29e"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2cdbb5d9"
+    },
+    {
+        "eval_score": 2,
+        "dialog_id": "0x6f704fd2"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x686f66a0"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x54de7b13"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4466a700"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x39548697"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x32a7c3e3"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x3ad0334f"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x745ff997"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x434151c4"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x56d91dc2"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2eed13"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0xe18ceec"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x4b7e9e9"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x2ed0027b"
+    },
+    {
+        "eval_score": 1,
+        "dialog_id": "0x59a62434"
+    },
+    {
+        "eval_score": 5,
+        "dialog_id": "0x405a7c5"
+    }
+]
