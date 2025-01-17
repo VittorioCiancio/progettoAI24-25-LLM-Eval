@@ -17,7 +17,9 @@ LLM-EVAL è un framework per la valutazione automatica dei modelli di Large Lang
 Per eseguire i test e le valutazioni, clona il repository e installa le dipendenze:
 
 git clone https://github.com/TuoUsername/LLM-EVAL.git
+
 cd LLM-EVAL
+
 pip install -r requirements.txt
 
 ⚠️ Nota: Alcune funzionalità richiedono credenziali API per interrogare modelli LLM.Assicurati di impostare il file .env con la chiave API corretta.
