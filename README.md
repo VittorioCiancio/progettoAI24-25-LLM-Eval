@@ -1,4 +1,5 @@
 🚀 LLM-EVAL: Valutazione Multidimensionale dei Modelli AI
+
 LLM-EVAL è un framework per la valutazione automatica dei modelli di Large Language Models (LLM) nelle conversazioni open-domain. Il progetto analizza le performance di modelli di intelligenza artificiale nella valutazione della qualità del dialogo, confrontando diverse metriche di correlazione con i giudizi umani.
 
 📌 Obiettivi del progetto
