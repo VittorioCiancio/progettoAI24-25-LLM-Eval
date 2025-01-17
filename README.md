@@ -29,6 +29,7 @@ python scripts/evaluate.py --model claude-3.5 --dataset convai2_data.json
 I risultati verranno salvati nella cartella results/.
 
 📊 Risultati principali
+
 📌 Modello più accurato: Claude 3.5 ha ottenuto la migliore accuratezza nella valutazione dei dialoghi.
 
 📌 Dataset più adatto: I dataset FED e PC hanno fornito risultati più stabili rispetto a DSTC9, evidenziando l’importanza delle annotazioni nei dati.
