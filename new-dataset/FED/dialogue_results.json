@@ -1,0 +1,627 @@
+[
+    {
+        "dialog_id": 3,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 7,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 11,
+        "human_score": 1.8,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 15,
+        "human_score": 2.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 19,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 23,
+        "human_score": 2.8,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 27,
+        "human_score": 3.4,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 31,
+        "human_score": 3.4,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 35,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 39,
+        "human_score": 3.2,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 43,
+        "human_score": 0.6,
+        "predicted_score": 1
+    },
+    {
+        "dialog_id": 47,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 51,
+        "human_score": 1.8,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 55,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 59,
+        "human_score": 2.6,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 63,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 67,
+        "human_score": 3.2,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 71,
+        "human_score": 2.2,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 75,
+        "human_score": 2.6,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 79,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 83,
+        "human_score": 3.4,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 87,
+        "human_score": 3.6,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 91,
+        "human_score": 1.0,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 95,
+        "human_score": 3.2,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 99,
+        "human_score": 2.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 103,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 107,
+        "human_score": 3.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 111,
+        "human_score": 3.4,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 115,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 119,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 123,
+        "human_score": 2.2,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 127,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 131,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 135,
+        "human_score": 2.4,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 139,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 143,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 147,
+        "human_score": 2.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 151,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 155,
+        "human_score": 1.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 159,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 163,
+        "human_score": 2.0,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 167,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 171,
+        "human_score": 2.4,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 175,
+        "human_score": 2.4,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 179,
+        "human_score": 4.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 183,
+        "human_score": 0.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 187,
+        "human_score": 2.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 191,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 195,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 199,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 203,
+        "human_score": 1.6,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 207,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 211,
+        "human_score": 4.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 215,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 219,
+        "human_score": 2.8,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 223,
+        "human_score": 3.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 227,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 231,
+        "human_score": 2.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 235,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 239,
+        "human_score": 3.8,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 243,
+        "human_score": 2.2,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 247,
+        "human_score": 3.0,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 251,
+        "human_score": 3.0,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 255,
+        "human_score": 1.2,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 259,
+        "human_score": 2.8,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 263,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 267,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 271,
+        "human_score": 3.4,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 275,
+        "human_score": 2.8,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 279,
+        "human_score": 2.4,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 283,
+        "human_score": 2.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 287,
+        "human_score": 0.6,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 291,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 295,
+        "human_score": 3.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 299,
+        "human_score": 0.8,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 303,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 307,
+        "human_score": 2.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 311,
+        "human_score": 1.4,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 315,
+        "human_score": 1.6,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 319,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 323,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 327,
+        "human_score": 2.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 331,
+        "human_score": 2.4,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 335,
+        "human_score": 4.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 339,
+        "human_score": 1.8,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 343,
+        "human_score": 2.4,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 347,
+        "human_score": 2.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 351,
+        "human_score": 1.4,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 355,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 359,
+        "human_score": 3.2,
+        "predicted_score": 4.5
+    },
+    {
+        "dialog_id": 363,
+        "human_score": 1.4,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 367,
+        "human_score": 2.8,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 371,
+        "human_score": 4.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 375,
+        "human_score": 0.6,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 379,
+        "human_score": 3.6,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 383,
+        "human_score": 3.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 387,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 391,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 395,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 399,
+        "human_score": 3.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 403,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 407,
+        "human_score": 2.2,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 411,
+        "human_score": 2.8,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 415,
+        "human_score": 2.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 419,
+        "human_score": 1.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 423,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 427,
+        "human_score": 2.8,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 431,
+        "human_score": 2.2,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 435,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 439,
+        "human_score": 4.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 443,
+        "human_score": 2.8,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 447,
+        "human_score": 3.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 451,
+        "human_score": 2.8,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 455,
+        "human_score": 3.4,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 459,
+        "human_score": 3.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 463,
+        "human_score": 2.4,
+        "predicted_score": 2
+    },
+    {
+        "dialog_id": 467,
+        "human_score": 3.2,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 471,
+        "human_score": 2.6,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 475,
+        "human_score": 2.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 479,
+        "human_score": 2.4,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 483,
+        "human_score": 3.0,
+        "predicted_score": 3
+    },
+    {
+        "dialog_id": 487,
+        "human_score": 3.8,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 491,
+        "human_score": 3.2,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 495,
+        "human_score": 4.0,
+        "predicted_score": 4
+    },
+    {
+        "dialog_id": 499,
+        "human_score": 2.2,
+        "predicted_score": 2
+    }
+]

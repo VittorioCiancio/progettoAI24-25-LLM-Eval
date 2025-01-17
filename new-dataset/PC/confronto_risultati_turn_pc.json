@@ -1,0 +1,1815 @@
+{
+    "totale_dialoghi": 300,
+    "corretti": 77,
+    "errati": 223,
+    "non_confrontabili": 0,
+    "accuratezza": 25.67,
+    "metriche": {
+        "Spearman": 0.45281966206249313,
+        "Pearson": 0.4662978729498485,
+        "Kendall-Tau": 0.36342782662273604,
+        "Cohen Kappa": 0.03807442341979639
+    },
+    "dettagli": [
+        {
+            "dialog_id": 0,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 0,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 0,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 0,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 0,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 1,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 1,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 1.3333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 1,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 1,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 1,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 2,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 2,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 2,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 2,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 2,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 3,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 3,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 3,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 3,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 3,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 4,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 4,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 4,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 4,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 4,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 5,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 5,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 5,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 5,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 5,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 6,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 6,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 6,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 6,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 1.6666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 6,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 7,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 7,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 7,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 7,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 7,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 8,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 8,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 8,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 8,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.3333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 8,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 9,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 9,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 9,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 9,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 9,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 10,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 10,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 10,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 10,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 10,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 11,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 11,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.6666666666666667,
+            "corretto": true
+        },
+        {
+            "dialog_id": 11,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.6666666666666667,
+            "corretto": true
+        },
+        {
+            "dialog_id": 11,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 11,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 12,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 12,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 12,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 12,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 12,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 13,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 13,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 13,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 13,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 13,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 14,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 14,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.3333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 14,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 14,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 14,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 15,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 15,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 15,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 15,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 15,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 16,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 16,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 16,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 16,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.6666666666666667,
+            "corretto": true
+        },
+        {
+            "dialog_id": 16,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 17,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 17,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 17,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 17,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 17,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 18,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 18,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 18,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 18,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 18,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 19,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 19,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 19,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 19,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 19,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 20,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 20,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 20,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 20,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 2.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 20,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 21,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 21,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 21,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 21,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 21,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 22,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 22,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 22,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 22,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 22,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 23,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 23,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 23,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 23,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 23,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 24,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 24,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 24,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 24,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 24,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 25,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 25,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 25,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 25,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 25,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 26,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 26,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 26,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 26,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 26,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 27,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 27,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 27,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 27,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 27,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 28,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 28,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 28,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 28,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 28,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 29,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 29,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 29,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 29,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 29,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 30,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 30,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 30,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 30,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 30,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 31,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 31,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 31,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.3333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 31,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 31,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 32,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 32,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 32,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 32,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 32,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 33,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 33,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 33,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 33,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 33,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 34,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 34,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 34,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 34,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 34,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 35,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 35,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 35,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 35,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 35,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 36,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 36,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 36,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 36,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 36,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 37,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 37,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 37,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 37,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 37,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 38,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 38,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 38,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 38,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 38,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 5.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 39,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 39,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 39,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 39,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 39,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 40,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 40,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 40,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 40,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 40,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 41,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 41,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 41,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.6666666666666667,
+            "corretto": true
+        },
+        {
+            "dialog_id": 41,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 41,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 42,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 42,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 42,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 42,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 42,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 43,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 43,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 43,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 43,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 43,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 44,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 44,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 44,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 44,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 44,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 45,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 45,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 45,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 45,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 45,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 46,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 46,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 46,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 46,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 46,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 47,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 47,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 47,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 47,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 1.6666666666666667,
+            "corretto": true
+        },
+        {
+            "dialog_id": 47,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 48,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 48,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 48,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 48,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 48,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 49,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 49,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 49,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 49,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 49,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 50,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 50,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 50,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 50,
+            "eval_score_generato": 5,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 50,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 51,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 51,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 51,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 51,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": true
+        },
+        {
+            "dialog_id": 51,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 52,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 52,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 52,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 52,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 52,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 53,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 53,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 53,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 53,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 53,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 54,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 54,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 54,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 54,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 54,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 55,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 55,
+            "eval_score_generato": 1,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 55,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 55,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 55,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 56,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 56,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 56,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 56,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 56,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": false
+        },
+        {
+            "dialog_id": 57,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 57,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 57,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 57,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 57,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 58,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 4.666666666666667,
+            "corretto": false
+        },
+        {
+            "dialog_id": 58,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 3.3333333333333335,
+            "corretto": false
+        },
+        {
+            "dialog_id": 58,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 58,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 3.6666666666666665,
+            "corretto": false
+        },
+        {
+            "dialog_id": 58,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        },
+        {
+            "dialog_id": 59,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 4.333333333333333,
+            "corretto": true
+        },
+        {
+            "dialog_id": 59,
+            "eval_score_generato": 3,
+            "eval_score_atteso": 3.0,
+            "corretto": true
+        },
+        {
+            "dialog_id": 59,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 59,
+            "eval_score_generato": 2,
+            "eval_score_atteso": 2.3333333333333335,
+            "corretto": true
+        },
+        {
+            "dialog_id": 59,
+            "eval_score_generato": 4,
+            "eval_score_atteso": 5.0,
+            "corretto": false
+        }
+    ]
+}
