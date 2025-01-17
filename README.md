@@ -24,16 +24,6 @@ pip install -r requirements.txt
 
 ⚠️ Nota: Alcune funzionalità richiedono credenziali API per interrogare modelli LLM.Assicurati di impostare il file .env con la chiave API corretta.
 
-📂 Struttura del Repository
-
-data/ → Dataset utilizzati per la valutazione.
-
-notebooks/ → Notebook Jupyter per l’analisi.
-
-scripts/ → Codice per la valutazione automatica.
-
-results/ → Output e report dei test.
-
 🚀 Esegui un test
 
 Per valutare un modello, esegui:
