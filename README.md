@@ -10,12 +10,10 @@ LLM-EVAL è un framework per la valutazione automatica dei modelli di Large Lang
 🔧 Setup del progetto
 Per eseguire i test e le valutazioni, clona il repository e installa le dipendenze:
 
-bash
-Copia
-Modifica
 git clone https://github.com/TuoUsername/LLM-EVAL.git
 cd LLM-EVAL
 pip install -r requirements.txt
+
 ⚠️ Nota: Alcune funzionalità richiedono credenziali API per interrogare modelli LLM. Assicurati di impostare il file .env con la chiave API corretta.
 
 📂 Struttura del Repository
@@ -26,10 +24,8 @@ results/ → Output e report dei test.
 🚀 Esegui un test
 Per valutare un modello, esegui:
 
-bash
-Copia
-Modifica
 python scripts/evaluate.py --model claude-3.5 --dataset convai2_data.json
+
 I risultati verranno salvati nella cartella results/.
 
 📊 Risultati principali
